@@ -239,6 +239,14 @@
 				<version>${project.version}</version>
 			</dependency>
 
+			<!-- Spring AI GoodMem -->
+
+			<dependency>
+				<groupId>org.springframework.ai</groupId>
+				<artifactId>spring-ai-goodmem</artifactId>
+				<version>${project.version}</version>
+			</dependency>
+
 			<!-- Spring AI Models -->
 
 			<dependency>
